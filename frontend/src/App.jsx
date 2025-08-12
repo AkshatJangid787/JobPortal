@@ -17,6 +17,7 @@ import JobDetails from './pages/JobSeeker/JobDetails';
 import JobSeekerDashboard from './pages/JobSeeker/JobSeekerDashboard';
 import SavedJobs from './pages/JobSeeker/SavedJobs';
 import UserProfile from './pages/JobSeeker/UserProfile';
+import ProtectedRoute from './routes/ProtectedRoute';
 
 const App = () => {
   return (
